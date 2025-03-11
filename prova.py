@@ -1,2 +1,1 @@
-x = "I'm a test file" 
-print(x)
+print("i'm a test file")
